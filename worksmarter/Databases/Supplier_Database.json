@@ -1,0 +1,47 @@
+{
+    "Jared's Carriage Retail": {
+        "Email": "jared@jaredretail.com",
+        "Products_CostsPHP": {
+            "Lucky Mo Big Noodles": 500,
+            "Venus Chocolate Bars": 4000,
+            "Magnolia Garlic Bread": 4231,
+            "NPA Rice": 750
+        }
+    },
+    "Shan's Shampoo": {
+        "Email": "shan@shanpoo.com",
+        "Products_CostsPHP": {
+            "Beach Fabric Conditioner": 2356,
+            "Don Rox Bleach": 4200,
+            "Panteen Shampoo": 450,
+            "Col Git Toothpaste": 1240
+        }
+    },
+    "Colyn's Cola": {
+        "Email": "colyn@colyncola.com",
+        "Products_CostsPHP": {
+            "Mrs. Chips": 1500,
+            "Brava Biscuits": 500,
+            "Rita Round Biscuits": 250,
+            "Royal Cola": 2150
+        }
+    },
+    "Reese's Milk and Cheese retail": {
+        "Email": "reese@reesecheese.com",
+        "Products_CostsPHP": {
+            "Bullhead Milk": 2000,
+            "Mila's Chocolate Milk": 2300,
+            "Select Vanilla Ice Cream": 2000,
+            "Dairy King Ice Cream": 3200,
+            "Mr. Jelly Gulaman Pack": 2100
+        }
+    },
+    "Os' Sauce and salts": {
+        "Email": "os@ossauce.com",
+        "Products_CostsPHP": {
+            "Silver Duck Soy Sauce": 1250,
+            "Datu Itim Vinegar": 1750,
+            "Mayon Blue Salt": 2300
+        }
+    }
+}

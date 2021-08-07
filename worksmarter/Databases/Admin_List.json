@@ -1,0 +1,23 @@
+{"nottheavreagejoe":{"password":"imnotjoeking",
+    "first_name": "Joe",
+    "last_name":"Ilagan"},
+
+"reesepeanutbuttercups":{"password": "onlyrealpeanutbutter",
+         "first_name" :"Reese",
+         "last_name":"Amores"},
+
+"jablue":{"password": "myfavecolorisred",
+"first_name": "Jared",
+"last_name":"Ong"},
+
+"uusedtocolynonmycellphone":{"password": "hotlinebling$$",
+             "first_name": "Colyn",
+             "last_name": "Ching"},
+
+"theoneandshanlyone": {"password" : "shanisnotasheep",
+       "first_name" :"Shan",
+       "last_name" :"Porras"},
+
+"test": {"password" : "1234",
+        "first_name" :"test",
+        "last_name" :"test"}}

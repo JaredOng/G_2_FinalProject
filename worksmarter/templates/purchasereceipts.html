@@ -1,0 +1,24 @@
+{% include "header.html" %}
+    <h2>Company Receipts</h2>
+ <style>
+  table, th, td {
+    border: 2px solid black;
+  }
+
+  </style>
+        <table style="width:80%">
+          <col style="width:100%">
+          <tr><th>Purchase Receipts</th></tr>
+          {% for log in purchase_receipts.keys() %}
+          <form action="/receipt_reader" method="POST" id='receipt_form'>
+            <tr><td><button type="submit" name="receipt" value="Receipts_Folder/Purchase Receipts/{{log}}" class="btn-link">{{log[:-4]}}</button></td></tr>
+          </form>
+        {% endfor %}
+        </table>
+    </body>
+  </body>
+</html>
+<BR>
+<BR>
+<BR>
+{% include "footer.html" %}

@@ -1,0 +1,10 @@
+---------------------------------------------
+Supplier :     Reese's Milk and Cheese retail
+Email    :     reese@reesecheese.com
+Date     :     07-31-21
+---------------------------------------------
+Bullhead Milk                 	02    	4000
+Dairy King Ice Cream          	06   	19200
+Select Vanilla Ice Cream      	06   	12000
+---------------------------------------------
+Total    :                              35200

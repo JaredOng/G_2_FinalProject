@@ -1,0 +1,1404 @@
+{
+    "01/02/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 5,
+            "Price": 2356,
+            "Subtotal": 11780
+        },
+        "Bullhead Milk": {
+            "Quantity": 5,
+            "Price": 2000,
+            "Subtotal": 10000
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 3,
+            "Price": 3200,
+            "Subtotal": 9600
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 4,
+            "Price": 1750,
+            "Subtotal": 7000
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 3,
+            "Price": 2300,
+            "Subtotal": 6900
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 5,
+            "Price": 2100,
+            "Subtotal": 10500
+        },
+        "Mrs. Chips": {
+            "Quantity": 4,
+            "Price": 1500,
+            "Subtotal": 6000
+        },
+        "Panteen Shampoo": {
+            "Quantity": 5,
+            "Price": 450,
+            "Subtotal": 2250
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 3,
+            "Price": 2000,
+            "Subtotal": 6000
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 3,
+            "Price": 4000,
+            "Subtotal": 12000
+        }
+    },
+    "01/09/2021": {
+        "Brava Biscuits": {
+            "Quantity": 5,
+            "Price": 500,
+            "Subtotal": 2500
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 4,
+            "Price": 3200,
+            "Subtotal": 12800
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 7,
+            "Price": 1750,
+            "Subtotal": 12250
+        },
+        "Don Rox Bleach": {
+            "Quantity": 3,
+            "Price": 4200,
+            "Subtotal": 12600
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 7,
+            "Price": 500,
+            "Subtotal": 3500
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 4,
+            "Price": 4231,
+            "Subtotal": 16924
+        },
+        "Mrs. Chips": {
+            "Quantity": 4,
+            "Price": 1500,
+            "Subtotal": 6000
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 2,
+            "Price": 2000,
+            "Subtotal": 4000
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 6,
+            "Price": 1250,
+            "Subtotal": 7500
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 5,
+            "Price": 4000,
+            "Subtotal": 20000
+        }
+    },
+    "01/16/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 4,
+            "Price": 2356,
+            "Subtotal": 9424
+        },
+        "Bullhead Milk": {
+            "Quantity": 3,
+            "Price": 2000,
+            "Subtotal": 6000
+        },
+        "Col Git Toothpaste": {
+            "Quantity": 3,
+            "Price": 1240,
+            "Subtotal": 3720
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 2,
+            "Price": 3200,
+            "Subtotal": 6400
+        },
+        "Don Rox Bleach": {
+            "Quantity": 3,
+            "Price": 4200,
+            "Subtotal": 12600
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 5,
+            "Price": 4231,
+            "Subtotal": 21155
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 2,
+            "Price": 2300,
+            "Subtotal": 4600
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 9,
+            "Price": 2300,
+            "Subtotal": 20700
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 4,
+            "Price": 2100,
+            "Subtotal": 8400
+        },
+        "Mrs. Chips": {
+            "Quantity": 5,
+            "Price": 1500,
+            "Subtotal": 7500
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 4,
+            "Price": 250,
+            "Subtotal": 1000
+        },
+        "Royal Cola": {
+            "Quantity": 10,
+            "Price": 2150,
+            "Subtotal": 21500
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 7,
+            "Price": 1250,
+            "Subtotal": 8750
+        }
+    },
+    "01/23/2021": {
+        "Brava Biscuits": {
+            "Quantity": 5,
+            "Price": 500,
+            "Subtotal": 2500
+        },
+        "Bullhead Milk": {
+            "Quantity": 6,
+            "Price": 2000,
+            "Subtotal": 12000
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 4,
+            "Price": 3200,
+            "Subtotal": 12800
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 9,
+            "Price": 2300,
+            "Subtotal": 20700
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 7,
+            "Price": 2100,
+            "Subtotal": 14700
+        },
+        "Mrs. Chips": {
+            "Quantity": 5,
+            "Price": 1500,
+            "Subtotal": 7500
+        },
+        "NPA Rice": {
+            "Quantity": 20,
+            "Price": 567,
+            "Subtotal": 11340
+        },
+        "Panteen Shampoo": {
+            "Quantity": 6,
+            "Price": 450,
+            "Subtotal": 2700
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 5,
+            "Price": 250,
+            "Subtotal": 1250
+        },
+        "Royal Cola": {
+            "Quantity": 8,
+            "Price": 2150,
+            "Subtotal": 17200
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 3,
+            "Price": 1250,
+            "Subtotal": 3750
+        }
+    },
+    "01/30/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 5,
+            "Price": 2356,
+            "Subtotal": 11780
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 5,
+            "Price": 1750,
+            "Subtotal": 8750
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 7,
+            "Price": 4231,
+            "Subtotal": 29617
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 8,
+            "Price": 2100,
+            "Subtotal": 16800
+        },
+        "NPA Rice": {
+            "Quantity": 5,
+            "Price": 567,
+            "Subtotal": 2835
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 2,
+            "Price": 1250,
+            "Subtotal": 2500
+        }
+    },
+    "02/06/2021": {
+        "Brava Biscuits": {
+            "Quantity": 3,
+            "Price": 500,
+            "Subtotal": 1500
+        },
+        "Bullhead Milk": {
+            "Quantity": 4,
+            "Price": 2000,
+            "Subtotal": 8000
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 8,
+            "Price": 3200,
+            "Subtotal": 25600
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 3,
+            "Price": 1750,
+            "Subtotal": 5250
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 9,
+            "Price": 500,
+            "Subtotal": 4500
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 10,
+            "Price": 4231,
+            "Subtotal": 42310
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 6,
+            "Price": 2300,
+            "Subtotal": 13800
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 8,
+            "Price": 2300,
+            "Subtotal": 18400
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 3,
+            "Price": 2100,
+            "Subtotal": 6300
+        },
+        "NPA Rice": {
+            "Quantity": 12,
+            "Price": 567,
+            "Subtotal": 6804
+        },
+        "Panteen Shampoo": {
+            "Quantity": 3,
+            "Price": 450,
+            "Subtotal": 1350
+        },
+        "Royal Cola": {
+            "Quantity": 9,
+            "Price": 2150,
+            "Subtotal": 19350
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 3,
+            "Price": 2000,
+            "Subtotal": 6000
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 9,
+            "Price": 4000,
+            "Subtotal": 36000
+        }
+    },
+    "02/13/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 9,
+            "Price": 2356,
+            "Subtotal": 21204
+        },
+        "Brava Biscuits": {
+            "Quantity": 3,
+            "Price": 500,
+            "Subtotal": 1500
+        },
+        "Bullhead Milk": {
+            "Quantity": 6,
+            "Price": 2000,
+            "Subtotal": 12000
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 4,
+            "Price": 1750,
+            "Subtotal": 7000
+        }
+    },
+    "02/20/2021": {
+        "Bullhead Milk": {
+            "Quantity": 10,
+            "Price": 2000,
+            "Subtotal": 20000
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 3,
+            "Price": 3200,
+            "Subtotal": 9600
+        },
+        "Don Rox Bleach": {
+            "Quantity": 4,
+            "Price": 4200,
+            "Subtotal": 16800
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 7,
+            "Price": 4231,
+            "Subtotal": 29617
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 9,
+            "Price": 2300,
+            "Subtotal": 20700
+        },
+        "Mrs. Chips": {
+            "Quantity": 10,
+            "Price": 1500,
+            "Subtotal": 15000
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 7,
+            "Price": 250,
+            "Subtotal": 1750
+        },
+        "Royal Cola": {
+            "Quantity": 9,
+            "Price": 2150,
+            "Subtotal": 19350
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 5,
+            "Price": 1250,
+            "Subtotal": 6250
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 3,
+            "Price": 4000,
+            "Subtotal": 12000
+        }
+    },
+    "02/27/2021": {
+        "Bullhead Milk": {
+            "Quantity": 7,
+            "Price": 2000,
+            "Subtotal": 14000
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 2,
+            "Price": 2300,
+            "Subtotal": 4600
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 5,
+            "Price": 250,
+            "Subtotal": 1250
+        },
+        "Royal Cola": {
+            "Quantity": 3,
+            "Price": 2150,
+            "Subtotal": 6450
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 7,
+            "Price": 1250,
+            "Subtotal": 8750
+        }
+    },
+    "03/06/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 7,
+            "Price": 2356,
+            "Subtotal": 16492
+        },
+        "Brava Biscuits": {
+            "Quantity": 4,
+            "Price": 500,
+            "Subtotal": 2000
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 7,
+            "Price": 3200,
+            "Subtotal": 22400
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 3,
+            "Price": 1750,
+            "Subtotal": 5250
+        },
+        "Don Rox Bleach": {
+            "Quantity": 6,
+            "Price": 4200,
+            "Subtotal": 25200
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 2,
+            "Price": 2300,
+            "Subtotal": 4600
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 6,
+            "Price": 2100,
+            "Subtotal": 12600
+        },
+        "Mrs. Chips": {
+            "Quantity": 2,
+            "Price": 1500,
+            "Subtotal": 3000
+        },
+        "NPA Rice": {
+            "Quantity": 6,
+            "Price": 567,
+            "Subtotal": 3402
+        },
+        "Royal Cola": {
+            "Quantity": 0,
+            "Price": 2150,
+            "Subtotal": 0
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 8,
+            "Price": 2000,
+            "Subtotal": 16000
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 2,
+            "Price": 1250,
+            "Subtotal": 2500
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 9,
+            "Price": 4000,
+            "Subtotal": 36000
+        }
+    },
+    "03/13/2021": {
+        "Datu Itim Vinegar": {
+            "Quantity": 7,
+            "Price": 1750,
+            "Subtotal": 12250
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 5,
+            "Price": 500,
+            "Subtotal": 2500
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 6,
+            "Price": 4231,
+            "Subtotal": 25386
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 3,
+            "Price": 2300,
+            "Subtotal": 6900
+        },
+        "Panteen Shampoo": {
+            "Quantity": 9,
+            "Price": 450,
+            "Subtotal": 4050
+        }
+    },
+    "03/20/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 10,
+            "Price": 2356,
+            "Subtotal": 23560
+        },
+        "Bullhead Milk": {
+            "Quantity": 9,
+            "Price": 2000,
+            "Subtotal": 18000
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 6,
+            "Price": 500,
+            "Subtotal": 3000
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 8,
+            "Price": 4231,
+            "Subtotal": 33848
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 6,
+            "Price": 2100,
+            "Subtotal": 12600
+        },
+        "Royal Cola": {
+            "Quantity": 8,
+            "Price": 2150,
+            "Subtotal": 17200
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 10,
+            "Price": 2000,
+            "Subtotal": 20000
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 9,
+            "Price": 1250,
+            "Subtotal": 11250
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 12,
+            "Price": 4000,
+            "Subtotal": 48000
+        }
+    },
+    "03/27/2021": {
+        "Dairy King Ice Cream": {
+            "Quantity": 5,
+            "Price": 3200,
+            "Subtotal": 16000
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 8,
+            "Price": 1750,
+            "Subtotal": 14000
+        },
+        "Don Rox Bleach": {
+            "Quantity": 9,
+            "Price": 4200,
+            "Subtotal": 37800
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 2,
+            "Price": 2300,
+            "Subtotal": 4600
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 5,
+            "Price": 2300,
+            "Subtotal": 11500
+        },
+        "Mrs. Chips": {
+            "Quantity": 6,
+            "Price": 1500,
+            "Subtotal": 9000
+        },
+        "Panteen Shampoo": {
+            "Quantity": 7,
+            "Price": 450,
+            "Subtotal": 3150
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 10,
+            "Price": 2000,
+            "Subtotal": 20000
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 4,
+            "Price": 1250,
+            "Subtotal": 5000
+        }
+    },
+    "04/03/2021": {
+        "Brava Biscuits": {
+            "Quantity": 8,
+            "Price": 500,
+            "Subtotal": 4000
+        },
+        "Bullhead Milk": {
+            "Quantity": 4,
+            "Price": 2000,
+            "Subtotal": 8000
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 7,
+            "Price": 3200,
+            "Subtotal": 22400
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 3,
+            "Price": 1750,
+            "Subtotal": 5250
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 8,
+            "Price": 500,
+            "Subtotal": 4000
+        },
+        "NPA Rice": {
+            "Quantity": 9,
+            "Price": 567,
+            "Subtotal": 5103
+        },
+        "Royal Cola": {
+            "Quantity": 10,
+            "Price": 2150,
+            "Subtotal": 21500
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 7,
+            "Price": 1250,
+            "Subtotal": 8750
+        }
+    },
+    "04/10/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 6,
+            "Price": 2356,
+            "Subtotal": 14136
+        },
+        "Col Git Toothpaste": {
+            "Quantity": 3,
+            "Price": 1240,
+            "Subtotal": 3720
+        },
+        "Don Rox Bleach": {
+            "Quantity": 8,
+            "Price": 4200,
+            "Subtotal": 33600
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 4,
+            "Price": 500,
+            "Subtotal": 2000
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 6,
+            "Price": 4231,
+            "Subtotal": 25386
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 10,
+            "Price": 2300,
+            "Subtotal": 23000
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 5,
+            "Price": 2300,
+            "Subtotal": 11500
+        },
+        "Mrs. Chips": {
+            "Quantity": 7,
+            "Price": 1500,
+            "Subtotal": 10500
+        },
+        "NPA Rice": {
+            "Quantity": 9,
+            "Price": 567,
+            "Subtotal": 5103
+        },
+        "Panteen Shampoo": {
+            "Quantity": 3,
+            "Price": 450,
+            "Subtotal": 1350
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 12,
+            "Price": 250,
+            "Subtotal": 3000
+        }
+    },
+    "04/17/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 6,
+            "Price": 2356,
+            "Subtotal": 14136
+        },
+        "Brava Biscuits": {
+            "Quantity": 9,
+            "Price": 500,
+            "Subtotal": 4500
+        },
+        "Bullhead Milk": {
+            "Quantity": 10,
+            "Price": 2000,
+            "Subtotal": 20000
+        },
+        "Col Git Toothpaste": {
+            "Quantity": 6,
+            "Price": 1240,
+            "Subtotal": 7440
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 7,
+            "Price": 3200,
+            "Subtotal": 22400
+        },
+        "Don Rox Bleach": {
+            "Quantity": 3,
+            "Price": 4200,
+            "Subtotal": 12600
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 6,
+            "Price": 4231,
+            "Subtotal": 25386
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 2,
+            "Price": 2300,
+            "Subtotal": 4600
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 6,
+            "Price": 2300,
+            "Subtotal": 13800
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 1,
+            "Price": 2100,
+            "Subtotal": 2100
+        },
+        "Royal Cola": {
+            "Quantity": 9,
+            "Price": 2150,
+            "Subtotal": 19350
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 10,
+            "Price": 4000,
+            "Subtotal": 40000
+        }
+    },
+    "04/24/2021": {
+        "Lucky Mo Big Noodles": {
+            "Quantity": 7,
+            "Price": 500,
+            "Subtotal": 3500
+        },
+        "NPA Rice": {
+            "Quantity": 13,
+            "Price": 567,
+            "Subtotal": 7371
+        },
+        "Panteen Shampoo": {
+            "Quantity": 6,
+            "Price": 450,
+            "Subtotal": 2700
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 4,
+            "Price": 250,
+            "Subtotal": 1000
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 9,
+            "Price": 2000,
+            "Subtotal": 18000
+        }
+    },
+    "05/01/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 2,
+            "Price": 2356,
+            "Subtotal": 4712
+        },
+        "Brava Biscuits": {
+            "Quantity": 7,
+            "Price": 500,
+            "Subtotal": 3500
+        },
+        "Col Git Toothpaste": {
+            "Quantity": 10,
+            "Price": 1240,
+            "Subtotal": 12400
+        },
+        "Don Rox Bleach": {
+            "Quantity": 4,
+            "Price": 4200,
+            "Subtotal": 16800
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 9,
+            "Price": 500,
+            "Subtotal": 4500
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 7,
+            "Price": 2100,
+            "Subtotal": 14700
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 9,
+            "Price": 250,
+            "Subtotal": 2250
+        }
+    },
+    "05/08/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 12,
+            "Price": 2356,
+            "Subtotal": 28272
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 5,
+            "Price": 1750,
+            "Subtotal": 8750
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 8,
+            "Price": 4231,
+            "Subtotal": 33848
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 4,
+            "Price": 2300,
+            "Subtotal": 9200
+        },
+        "Mrs. Chips": {
+            "Quantity": 8,
+            "Price": 1500,
+            "Subtotal": 12000
+        },
+        "NPA Rice": {
+            "Quantity": 5,
+            "Price": 567,
+            "Subtotal": 2835
+        },
+        "Royal Cola": {
+            "Quantity": 9,
+            "Price": 2150,
+            "Subtotal": 19350
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 3,
+            "Price": 2000,
+            "Subtotal": 6000
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 6,
+            "Price": 1250,
+            "Subtotal": 7500
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 9,
+            "Price": 4000,
+            "Subtotal": 36000
+        }
+    },
+    "05/15/2021": {
+        "Lucky Mo Big Noodles": {
+            "Quantity": 3,
+            "Price": 500,
+            "Subtotal": 1500
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 9,
+            "Price": 2100,
+            "Subtotal": 18900
+        },
+        "NPA Rice": {
+            "Quantity": 15,
+            "Price": 567,
+            "Subtotal": 8505
+        },
+        "Panteen Shampoo": {
+            "Quantity": 4,
+            "Price": 450,
+            "Subtotal": 1800
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 8,
+            "Price": 250,
+            "Subtotal": 2000
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 8,
+            "Price": 1250,
+            "Subtotal": 10000
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 4,
+            "Price": 4000,
+            "Subtotal": 16000
+        }
+    },
+    "05/22/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 6,
+            "Price": 2356,
+            "Subtotal": 14136
+        },
+        "Brava Biscuits": {
+            "Quantity": 7,
+            "Price": 500,
+            "Subtotal": 3500
+        },
+        "Bullhead Milk": {
+            "Quantity": 4,
+            "Price": 2000,
+            "Subtotal": 8000
+        },
+        "Col Git Toothpaste": {
+            "Quantity": 4,
+            "Price": 1240,
+            "Subtotal": 4960
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 6,
+            "Price": 1750,
+            "Subtotal": 10500
+        },
+        "Don Rox Bleach": {
+            "Quantity": 2,
+            "Price": 4200,
+            "Subtotal": 8400
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 9,
+            "Price": 500,
+            "Subtotal": 4500
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 10,
+            "Price": 2300,
+            "Subtotal": 23000
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 4,
+            "Price": 2000,
+            "Subtotal": 8000
+        }
+    },
+    "05/29/2021": {
+        "Dairy King Ice Cream": {
+            "Quantity": 5,
+            "Price": 3200,
+            "Subtotal": 16000
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 3,
+            "Price": 1750,
+            "Subtotal": 5250
+        },
+        "Don Rox Bleach": {
+            "Quantity": 6,
+            "Price": 4200,
+            "Subtotal": 25200
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 9,
+            "Price": 4231,
+            "Subtotal": 38079
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 2,
+            "Price": 2300,
+            "Subtotal": 4600
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 5,
+            "Price": 2100,
+            "Subtotal": 10500
+        },
+        "Mrs. Chips": {
+            "Quantity": 8,
+            "Price": 1500,
+            "Subtotal": 12000
+        },
+        "NPA Rice": {
+            "Quantity": 4,
+            "Price": 567,
+            "Subtotal": 2268
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 3,
+            "Price": 250,
+            "Subtotal": 750
+        },
+        "Royal Cola": {
+            "Quantity": 13,
+            "Price": 2150,
+            "Subtotal": 27950
+        }
+    },
+    "06/05/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 5,
+            "Price": 2356,
+            "Subtotal": 11780
+        },
+        "Brava Biscuits": {
+            "Quantity": 3,
+            "Price": 500,
+            "Subtotal": 1500
+        },
+        "Col Git Toothpaste": {
+            "Quantity": 7,
+            "Price": 1240,
+            "Subtotal": 8680
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 9,
+            "Price": 500,
+            "Subtotal": 4500
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 3,
+            "Price": 250,
+            "Subtotal": 750
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 7,
+            "Price": 4000,
+            "Subtotal": 28000
+        }
+    },
+    "06/12/2021": {
+        "Col Git Toothpaste": {
+            "Quantity": 5,
+            "Price": 1240,
+            "Subtotal": 6200
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 3,
+            "Price": 1750,
+            "Subtotal": 5250
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 3,
+            "Price": 2300,
+            "Subtotal": 6900
+        },
+        "NPA Rice": {
+            "Quantity": 7,
+            "Price": 567,
+            "Subtotal": 3969
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 2,
+            "Price": 2000,
+            "Subtotal": 4000
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 6,
+            "Price": 1250,
+            "Subtotal": 7500
+        }
+    },
+    "06/19/2021": {
+        "Brava Biscuits": {
+            "Quantity": 1,
+            "Price": 500,
+            "Subtotal": 500
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 5,
+            "Price": 3200,
+            "Subtotal": 16000
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 8,
+            "Price": 1750,
+            "Subtotal": 14000
+        },
+        "Don Rox Bleach": {
+            "Quantity": 4,
+            "Price": 4200,
+            "Subtotal": 16800
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 9,
+            "Price": 500,
+            "Subtotal": 4500
+        },
+        "Mila's Chocolate Milk": {
+            "Quantity": 6,
+            "Price": 2300,
+            "Subtotal": 13800
+        },
+        "NPA Rice": {
+            "Quantity": 8,
+            "Price": 567,
+            "Subtotal": 4536
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 3,
+            "Price": 250,
+            "Subtotal": 750
+        },
+        "Royal Cola": {
+            "Quantity": 9,
+            "Price": 2150,
+            "Subtotal": 19350
+        }
+    },
+    "06/26/2021": {
+        "Lucky Mo Big Noodles": {
+            "Quantity": 5,
+            "Price": 500,
+            "Subtotal": 2500
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 6,
+            "Price": 2100,
+            "Subtotal": 12600
+        },
+        "NPA Rice": {
+            "Quantity": 9,
+            "Price": 567,
+            "Subtotal": 5103
+        },
+        "Panteen Shampoo": {
+            "Quantity": 2,
+            "Price": 450,
+            "Subtotal": 900
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 5,
+            "Price": 1250,
+            "Subtotal": 6250
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 6,
+            "Price": 4000,
+            "Subtotal": 24000
+        }
+    },
+    "07/03/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 9,
+            "Price": 2356,
+            "Subtotal": 21204
+        },
+        "Bullhead Milk": {
+            "Quantity": 2,
+            "Price": 2000,
+            "Subtotal": 4000
+        },
+        "Brava Biscuits": {
+            "Quantity": 6,
+            "Price": 500,
+            "Subtotal": 3000
+        },
+        "Col Git Toothpaste": {
+            "Quantity": 7,
+            "Price": 1240,
+            "Subtotal": 8680
+        },
+        "Datu Itim Vinegar": {
+            "Quantity": 4,
+            "Price": 1750,
+            "Subtotal": 7000
+        },
+        "Don Rox Bleach": {
+            "Quantity": 7,
+            "Price": 4200,
+            "Subtotal": 29400
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 4,
+            "Price": 500,
+            "Subtotal": 2000
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 2,
+            "Price": 2300,
+            "Subtotal": 4600
+        },
+        "Mrs. Chips": {
+            "Quantity": 7,
+            "Price": 1500,
+            "Subtotal": 10500
+        },
+        "NPA Rice": {
+            "Quantity": 11,
+            "Price": 567,
+            "Subtotal": 6237
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 5,
+            "Price": 250,
+            "Subtotal": 1250
+        }
+    },
+    "07/10/2021": {
+        "Dairy King Ice Cream": {
+            "Quantity": 7,
+            "Price": 3200,
+            "Subtotal": 22400
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 4,
+            "Price": 2100,
+            "Subtotal": 8400
+        },
+        "Panteen Shampoo": {
+            "Quantity": 6,
+            "Price": 450,
+            "Subtotal": 2700
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 9,
+            "Price": 2000,
+            "Subtotal": 18000
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 4,
+            "Price": 1250,
+            "Subtotal": 5000
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 8,
+            "Price": 4000,
+            "Subtotal": 32000
+        }
+    },
+    "07/17/2021": {
+        "Beach Fabric Conditioner": {
+            "Quantity": 3,
+            "Price": 2356,
+            "Subtotal": 7068
+        },
+        "Brava Biscuits": {
+            "Quantity": 6,
+            "Price": 500,
+            "Subtotal": 3000
+        },
+        "Col Git Toothpaste": {
+            "Quantity": 9,
+            "Price": 1240,
+            "Subtotal": 11160
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 2,
+            "Price": 3200,
+            "Subtotal": 6400
+        },
+        "Don Rox Bleach": {
+            "Quantity": 6,
+            "Price": 4200,
+            "Subtotal": 25200
+        },
+        "Mrs. Chips": {
+            "Quantity": 7,
+            "Price": 1500,
+            "Subtotal": 10500
+        },
+        "Venus Chocolate Bars": {
+            "Quantity": 9,
+            "Price": 4000,
+            "Subtotal": 36000
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 3,
+            "Price": 250,
+            "Subtotal": 750
+        }
+    },
+    "07/24/2021": {
+        "Dairy King Ice Cream": {
+            "Quantity": 6,
+            "Price": 3200,
+            "Subtotal": 19200
+        },
+        "Lucky Mo Big Noodles": {
+            "Quantity": 3,
+            "Price": 500,
+            "Subtotal": 1500
+        },
+        "Magnolia Garlic Bread": {
+            "Quantity": 8,
+            "Price": 4231,
+            "Subtotal": 33848
+        },
+        "Mayon Blue Salt": {
+            "Quantity": 9,
+            "Price": 2300,
+            "Subtotal": 20700
+        },
+        "Mr. Jelly Gulaman Pack": {
+            "Quantity": 3,
+            "Price": 2100,
+            "Subtotal": 6300
+        },
+        "NPA Rice": {
+            "Quantity": 5,
+            "Price": 567,
+            "Subtotal": 2835
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 3,
+            "Price": 2000,
+            "Subtotal": 6000
+        }
+    },
+    "07/31/2021": {
+        "Brava Biscuits": {
+            "Quantity": 6,
+            "Price": 500,
+            "Subtotal": 3000
+        },
+        "Bullhead Milk": {
+            "Quantity": 2,
+            "Price": 2000,
+            "Subtotal": 4000
+        },
+        "Col Git Toothpaste": {
+            "Quantity": 5,
+            "Price": 1240,
+            "Subtotal": 6200
+        },
+        "Dairy King Ice Cream": {
+            "Quantity": 6,
+            "Price": 3200,
+            "Subtotal": 19200
+        },
+        "Don Rox Bleach": {
+            "Quantity": 4,
+            "Price": 4200,
+            "Subtotal": 16800
+        },
+        "Mrs. Chips": {
+            "Quantity": 6,
+            "Price": 1500,
+            "Subtotal": 9000
+        },
+        "NPA Rice": {
+            "Quantity": 9,
+            "Price": 567,
+            "Subtotal": 5103
+        },
+        "Rita Round Biscuits": {
+            "Quantity": 3,
+            "Price": 250,
+            "Subtotal": 750
+        },
+        "Royal Cola": {
+            "Quantity": 6,
+            "Price": 2150,
+            "Subtotal": 12900
+        },
+        "Select Vanilla Ice Cream": {
+            "Quantity": 6,
+            "Price": 2000,
+            "Subtotal": 12000
+        },
+        "Silver Duck Soy Sauce": {
+            "Quantity": 3,
+            "Price": 1250,
+            "Subtotal": 3750
+        }
+    }
+}

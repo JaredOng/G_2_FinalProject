@@ -1,0 +1,105 @@
+<html>
+  <header>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
+    <style>
+      *{
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Work Sans', sans-serif;
+      }
+      .footer {
+        font-size:10px;
+      }
+      nav{
+        background-color: #F8F4F1;
+        padding: 10px;
+        padding-bottom: 20px;
+        text-align: center;
+      }
+      .title{
+        font-size: 100px;
+        color: #191769;
+        text-align: left;
+      }
+      .line{
+        background-color: #191769;
+        width: 700px;
+        height: 5px;
+      }
+      .welcome{
+        color: white;
+        padding: 10px;
+      }
+      .container{
+        text-align: center;
+        width: 800px;
+      }
+      .interfacetable{
+        background: blue;
+        width: 100%;
+      }
+      .interfacetable div{
+        font-size: 30px;
+        background-color: white;
+        color: #191769;
+        display: flex;
+      }
+      .interfacetable .odd{
+        background-color: #C4C4C4;
+      }
+      #sitemap{
+        font-size: 20px;
+        background-color: #76B9F0;
+        display: block;
+      }
+      .left{
+        width: 40%;
+        display: block;
+        text-align: right;
+        box-sizing: border-box;
+      }
+      .right{
+        font-size: 20px;
+        font-family: sans-serif;
+        box-sizing: border-box;
+        padding: 10px;
+        text-align: left;
+      }
+
+
+    </style>
+  </header>
+  <body style="background-color:#191769;">
+    <nav>
+      <h1 class="title">WorkSmarter.</h1>
+      <div class="line"></div>
+
+    </nav>
+    <h1 class="welcome">
+      Welcome, {{ session["admin"]["first_name"] }}! <a href='/logout'>Logout</a>
+    </h1>
+
+    <div class="container">
+      <div class="interfacetable">
+          <div id="sitemap">Site Map</div>
+          <a href='/purchaselog'><div class= "odd"><span class="left">Purchase Log</span><span class="right">Track your purchases from suppliers</span></div></a>
+          <a href='/saleslog'><div><span class="left">Sales Log</span><span class="right">Track your daily sales</span></div></a>
+          <a href='/order_input'><div class= "odd"><span class="left">Customer Order Input</span><span class="right">Input your orders from customers</span></div></a>
+          <a href='/currentinventory'><div><span class="left">Current Inventory</span><span class="right">View your current inventory</span></div></a>
+          <a href='/salesreceipts'><div class= "odd"><span class="left">Sales Receipt</span><span class="right">View your sales receipt</span></div></a>
+          <a href='/purchasereceipts'><div><span class="left">Purchase Receipt</span><span class="right">View your purchase receipt</span></div></a>
+          <a href='/orderstocks'><div class= "odd"><span class="left">Order Stocks</span><span class="right">Confirmation of automated orders</span></div></a>
+          <a href='/reports'><div><span class="left">Reports Page</span><span class="right">Track your product's sales</span></div></a>
+      </div>
+    </div>
+
+
+  </body>
+</html>
+<BR>
+<BR>
+<BR>
+{% include "footer.html" %}

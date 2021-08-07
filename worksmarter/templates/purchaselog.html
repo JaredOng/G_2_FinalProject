@@ -1,0 +1,30 @@
+{% include "header.html" %}
+      <h2>Purchase Log</h2>
+      <style>
+table, th, td {
+  border: 2px solid black;
+}
+
+</style>
+      <table style="width:80%">
+        <col style="width:15%">
+        <col style="width:35%">
+        <col style="width:10%">
+        <col style="width:10%">
+        <col style="width:10%">
+        <tr><th>Date</th><th>Product Name</th><th>Quantity</th><th>Price</th><th>Subtotal</th></tr>
+        {% for log in purchase_log_list %}
+        <tr><td>{{log["date"]}}</td><td>{{log["product"]}}</td><td>{{log["quantity"]}}</td><td>{{log["price"]}}</td><td>{{log["subtotal"]}}</td></tr>
+        {% endfor %}
+      </table>
+
+
+
+
+
+  </body>
+</html>
+<BR>
+<BR>
+<BR>
+{% include "footer.html" %}

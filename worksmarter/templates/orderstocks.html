@@ -1,0 +1,35 @@
+{% include "header.html" %}
+    <h2>Order Stocks</h2>
+    <style>
+    table, th, td {
+    border: 2px solid black;
+    }
+
+    </style>
+        <table style="width:80%">
+          <col style="width:80%">
+          <col style="width:20%">
+          <tr><th>Product</th><th>Optimal Quantity</th></tr>
+          {% for product in optimal_stock_list %}
+          <tr><td>{{product["product"]}}</td><td>{{product["quantity"]}}</td></tr>
+          {% endfor %}
+        </table>
+<br>
+<h2>Order Stocks to Purchase</h2>
+        <table style="width:80%">
+          <col style="width:80%">
+          <col style="width:20%">
+          <tr><th>Product</th><th>To Purchase</th></tr>
+          {% for product in purchase_list %}
+          <tr><td>{{product["product"]}}</td><td>{{product["quantity"]}}</td></tr>
+          {% endfor %}
+        </table>
+        <form action="/orderstocks" method="POST">
+          <button type="submit" class="btn btn-primary">Order</button>
+        </form>
+  </body>
+</html>
+<BR>
+<BR>
+<BR>
+{% include "footer.html" %}

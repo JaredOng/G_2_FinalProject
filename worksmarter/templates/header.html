@@ -1,0 +1,84 @@
+<html>
+  <header>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
+    <style>
+      *{
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Work Sans', sans-serif;
+      }
+      .footer {
+        font-size:15px;
+        padding: 1px;
+        color: white;
+      }
+      nav{
+        background-color: #F8F4F1;
+        padding: 10px;
+        padding-bottom: 20px;
+        text-align: center;
+      }
+      .title{
+        font-size: 100px;
+        color: #191769;
+        text-align: left;
+      }
+      .line{
+        background-color: #191769;
+        width: 700px;
+        height: 5px;
+      }
+      nav a{
+        color: #191769;
+        padding: 10px;
+      }
+      .disabled{
+        pointer-events: none;
+        font-weight: bold;
+      }
+      .welcome{
+        color: white;
+        padding: 10px;
+      }
+      .Else{
+        text-align: center;
+      }
+      .Else h2{
+        font-size: 50px;
+        color: white;
+      }
+      .Else table{
+        background-color: white;
+        position: relative;
+        left: 10%;
+      }
+      label{
+        color: white;
+      }
+    </style>
+  </header>
+  <body style="background-color:#191769;">
+    <nav>
+      <h1 class="title">WorkSmarter.</h1>
+      <div class="line"></div>
+      <br>
+      <a href='/user_interface_page'>User Interface</a> | <a href='/purchaselog'>Purchase Log</a> |
+      <a href='/saleslog'>Sales Log</a> | <a href='/order_input'>Order Customer Input</a> |
+      <a href='/currentinventory'>Current Inventory</a> | <a href='/salesreceipts'>Sales Receipts</a> |
+      <a href='/purchasereceipts'>Purchase Receipts</a> | <!--<a href='/salesreceiptsmaker' class="disabled">Sales Receipt Maker Confirmation</a> |-->
+      <a href='/orderstocks'>Order Stocks</a> | <a href='/reports'>Reports Page</a>
+    </nav>
+
+    {% if session["admin"] is defined %}
+
+    <h1 class="welcome">
+      Welcome, {{ session["admin"]["first_name"] }}.
+      <a href='/logout'>Logout</a>
+      {% else %}
+      <a href='/user_interface_page'>Back</a>
+      {% endif %}
+    </h1>
+    <div class="Else">

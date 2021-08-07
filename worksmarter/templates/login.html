@@ -1,0 +1,88 @@
+<header>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
+  <style>
+    *{
+      margin: 0px;
+      padding: 0px;
+      font-family: 'Work Sans', sans-serif;
+    }
+    .footer {
+      font-size:15px;
+      padding: 1px;
+      color: white;
+    }
+    nav{
+      background-color: #F8F4F1;
+      padding: 10px;
+      padding-bottom: 20px;
+      text-align: center;
+    }
+    .title{
+      font-size: 100px;
+      color: #191769;
+      text-align: left;
+    }
+    .line{
+      background-color: #191769;
+      width: 700px;
+      height: 5px;
+    }
+    nav a{
+      color: #191769;
+      padding: 10px;
+    }
+    .login{
+      color: white;
+      display: flex;
+    }
+    .left{
+      width: 40%;
+      padding: 50px;
+    }
+    .left h1{
+      font-size: 60px;
+      padding-top: 20px;
+    }
+    .left div{
+      font-size: 25px;
+      padding: 10px 0px;
+    }
+    .right{
+      padding: 50px;
+    }
+  </style>
+</header>
+
+<body style="background-color:#191769;">
+</body>
+<nav>
+  <h1 class="title">WorkSmarter.</h1>
+  <div class="line"></div>
+  <br>
+</nav>
+<div class="login">
+  <div class="left">
+    <h1>Log in</h1>
+    <form action="/auth" method="POST">
+       <div>
+         Username or email address
+       </div>
+       <input type="text" name="username"></input>
+       <div>
+         Password
+       </div>
+       <input type="password" name="password"></input>
+       <div>
+       <input type="submit" value="Login"/>
+       </div>
+    </form>
+  </div>
+  <div class="right">
+    <img src="{{ url_for('static' , filename = 'login 1.png') }}" width=100%;>
+  </div>
+</div>
+
+{% include "footer.html" %}

@@ -1,0 +1,53 @@
+{% include "header.html" %}
+    <h2>Order input</h2>
+
+      <style>
+        table, th, td {border: 1px solid black;}
+      </style>
+      <table style="width:80%">
+      <tr><th>Product Name</th><th>Price</th></tr>
+      {% for product in store_pricing_list %}
+      <tr><td>{{product["product"]}}</td><td>{{product["price"]}}</td></tr>
+      {% endfor %}
+      </table>
+      <BR>
+
+      <form action="/order_input" method="POST">
+        <label for="product">Choose a product:</label>
+          <select name="product" id="product">
+            <option value="Beach Fabric Conditioner">Beach Fabric Conditioner</option>
+            <option value="Brava Biscuits">Brava Biscuits</option>
+            <option value="Bullhead Milk">Bullhead Milk</option>
+            <option value="Col Git Toothpaste">Col Git Toothpaste</option>
+            <option value="Dairy King Ice Cream">Dairy King Ice Cream</option>
+            <option value="Datu Itim Vinegar">Datu Itim Vinegar</option>
+            <option value="Don Rox Bleach">Don Rox Bleach</option>
+            <option value="Lucky Mo Big Noodles">Lucky Mo Big Noodles</option>
+            <option value="Magnolia Garlic Bread">Magnolia Garlic Bread</option>
+            <option value="Mayon Blue Salt">Mayon Blue Salt</option>
+            <option value="Mila's Chocolate Milk">Mila's Chocolate Milk</option>
+            <option value="Mr. Jelly Gulaman Pack">Mr. Jelly Gulaman Pack</option>
+            <option value="Mrs. Chips">Mrs. Chips</option>
+            <option value="NPA Rice">NPA Rice</option>
+            <option value="Panteen Shampoo">Panteen Shampoo</option>
+            <option value="Rita Round Biscuits">Rita Round Biscuits</option>
+            <option value="Royal Cola">Royal Cola</option>
+            <option value="Select Vanilla Ice Cream">Select Vanilla Ice Cream</option>
+            <option value="Silver Duck Soy Sauce">Silver Duck Soy Sauce</option>
+            <option value="Venus Chocolate Bars">Venus Chocolate Bars</option>
+          </select>
+        <div class="form-group">
+          <input type="number" name="quantity" placeholder="Input quantity" min="1" class="form-control" style="width:20%; text-align:center; position:relative; left:40%">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+      <form action="/saleslog">
+        <button type="submit" class="btn btn-primary">Go to Sales Log</button>
+      </form>
+  </body>
+</html>
+<BR>
+<BR>
+<BR>
+{% include "footer.html" %}

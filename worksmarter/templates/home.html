@@ -1,0 +1,170 @@
+<html>
+  <header>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
+    <style>
+      *{
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Work Sans', sans-serif;
+      }
+      .footer {
+        font-size:10px;
+      }
+      nav{
+        background-color: #F8F4F1;
+        padding: 10px;
+        padding-bottom: 20px;
+      }
+      .title{
+        font-size: 100px;
+        color: #191769;
+      }
+      .line{
+        background-color: #191769;
+        width: 700px;
+        height: 5px;
+      }
+      .LoginDiv{
+        height: 840px;
+        background-color: #191769;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-image: url({{ url_for('static' , filename = 'laptopp 1.png') }});
+      }
+      .Login{
+        /* background-color: white; */
+        width: 50%;
+        box-sizing: border-box;
+        padding: 120px 130px;
+        text-align: center;
+      }
+      .Login h2{
+        font-size: 60px;
+        color: black;
+        margin-bottom: 20px;
+      }
+      .Login button{
+        background-color: #191769;
+        font-size: 50px;
+        padding: 10px 100px;
+      }
+      .flexcontainer{
+        display: flex;
+        justify-content: space-around;
+      }
+      .flex{
+        background-color: white;
+        width: 20%;
+        height: 200px;
+        text-align: center;
+      }
+      .flex *{
+        position: relative;
+        bottom: 60px;
+
+      }
+      .flex p{
+        font-size: 27px;
+        padding: 10px 25px;
+      }
+      .MissionDiv{
+        height: 300px;
+        background-color: #191769;
+        color: white;
+        padding: 10px;
+      }
+      .header{
+        background-color: white;
+        color: #191769;
+        font-size: 50px;
+        padding: 0px 10px;
+      }
+      .body{
+        font-size: 25px;
+      }
+      .VisionValuesDiv{
+        display: flex;
+        background-color: #191769;
+        color: white;
+        padding: 10px;
+      }
+      .VisionSubdiv{
+        width: 50%;
+      }
+      .VisionSubdiv .body{
+        font-size: 30px;
+        box-sizing: border-box;
+        padding: 10px 10px;
+      }
+      .val{
+        box-sizing: border-box;
+        padding: 10px 0px;
+      }
+    </style>
+  </header>
+  <body style="background-color:white;">
+    <nav>
+      <h1 class="title">WorkSmarter.</h1>
+      <div class="line"></div>
+    </nav>
+    <div class="LoginDiv">
+      <div class="Login">
+        <h2>Sit back and let us do the work for you.</h2>
+        <form action="/login">
+          <button type="submit" class="btn btn-primary">Login</button>
+        </form>
+      </div>
+      <div class="flexcontainer">
+        <div class="flex">
+          <img src="{{ url_for('static' , filename = 'Group 4.png') }}">
+          <p>A system designed for your ease.</p>
+        </div>
+        <div class="flex">
+          <img src="{{ url_for('static' , filename = 'Group 5.png') }}">
+          <p>Save time and energy.</p>
+        </div>
+        <div class="flex">
+          <img src="{{ url_for('static' , filename = 'Group 6.png') }}">
+          <p>Make the smarter move.</p>
+        </div>
+      </div>
+    </div>
+    <img src="{{ url_for('static' , filename = 'woosh 1.png') }}" width=100%;>
+    <div class="MissionDiv">
+      <span class="header">
+        Our Mission
+      </span>
+      <p class="body">To share our knowledge to our customers, aiming to make them outperform on inventory optimization. We believe that, especially in today’s environment, maximizing efficiency is a requirement for survival. The key to our success lies in the combination of us having sufficient knowledge and ample data to be able to check and optimize the company’s inventory. With a unique and passionate team of inventory specialists we continuously strive to innovate, create, motivate, and inspire. Our mission is simple: to make our customers outperform.</p>
+    </div>
+    <div class="VisionValuesDiv">
+      <div class="VisionSubdiv">
+        <span class="header">
+          Our Vision
+        </span>
+        <p class="body">Automate daily recurring tasks to free up time for the effective resolution of unexpected issues through maximizing and optimizing your warehouse efficiency with an online warehouse management software.</p>
+      </div>
+      <div class="VisionSubdiv">
+        <span class="header">
+          Our Values
+        </span>
+        <div class="val">
+          <h2>Integrity</h2>
+          <p>We pledge to protect our clients' confidentiality. We will disclose any conflict of interest that might arise.</p>
+          <h2>Honesty</h2>
+          <p>We will be candid, and will always provide our honest opinion. We will never tamper any data or misrepresent facts. </p>
+          <h2>Ethics</h2>
+          <p>We aspire to the highest ethical standards. We will comply with all laws and regulations.</p>
+          <h2>Focus on the Customer</h2>
+          <p>Our greatest hope is that our good clients will prosper with our help. We value each and every client relationship.</p>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      Copyright (c) 2021 WorkSmarter Inc. All rights reserved.
+    </div>
+  </body>
+</html>
